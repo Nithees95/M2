@@ -1,5 +1,5 @@
 
-NAME:NITHEESH YEGAVINTI(212224040370)
+NAME: NITHEESH YEGAVINTI(212224040370)
 # EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
